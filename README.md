@@ -1,4 +1,4 @@
 # Livro de receitas
 
 - Strogonoff de frango
-- Pavê
+- Pavê Alterado
